@@ -1,0 +1,22 @@
+{
+  "name": "@daozhao/translate_selection",
+  "version": "1.0.1",
+  "description": "Translate and replace the selection words!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowprompt/translate_selection.git"
+  },
+  "keywords": [
+    "translate"
+  ],
+  "author": "Shadow Prompt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadowprompt/translate_selection/issues"
+  },
+  "homepage": "https://github.com/shadowprompt/translate_selection#readme"
+}
