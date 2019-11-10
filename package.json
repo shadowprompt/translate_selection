@@ -1,6 +1,6 @@
 {
-  "name": "@daozhao/translate_selection",
-  "version": "1.0.1",
+  "name": "translate_selection",
+  "version": "1.0.0",
   "description": "Translate and replace the selection words!",
   "main": "index.js",
   "scripts": {
